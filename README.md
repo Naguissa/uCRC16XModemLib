@@ -47,7 +47,7 @@ Included on example folder, available on Arduino IDE.
 ## Who do I talk to? ##
 
  * [Naguissa](https://github.com/Naguissa)
- * https://www.foroelectro.net/librerias-arduino-ide-f29/ucrc16bpblib-pequena-libreria-para-calcular-el-cci-t215.html
+ * https://www.foroelectro.net/librerias-arduino-ide-f29/ucrc16xmodemlib-pequena-libreria-para-calcular-el--t321.html
 
 ## Contribute ##
 

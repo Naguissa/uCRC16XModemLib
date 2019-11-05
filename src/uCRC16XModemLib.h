@@ -9,7 +9,7 @@
  * @copyright Naguissa
  * @author Naguissa
  * @see <a href="https://github.com/Naguissa/uCRC16XModemLib">https://github.com/Naguissa/uCRC16XModemLib</a>
- * @see <a href="https://www.foroelectro.net/librerias-arduino-ide-f29/rtclib-arduino-libreria-simple-y-eficaz-para-rtc-y-t95.html">https://www.foroelectro.net/librerias-arduino-ide-f29/rtclib-arduino-libreria-simple-y-eficaz-para-rtc-y-t95.html</a>
+ * @see <a href="https://www.foroelectro.net/librerias-arduino-ide-f29/ucrc16xmodemlib-pequena-libreria-para-calcular-el--t321.html">https://www.foroelectro.net/librerias-arduino-ide-f29/ucrc16xmodemlib-pequena-libreria-para-calcular-el--t321.html</a>
  * @see <a href="mailto:naguissa@foroelectro.net">naguissa@foroelectro.net</a>
  * @version 1.0.0
  */
