@@ -1,0 +1,3 @@
+Base algorithm
+ - https://ukhas.org.uk/communication:protocol?s%5B%5D=crc16
+ - http://www.nongnu.org/avr-libc/user-manual/group__util__crc.html#gaca726c22a1900f9bad52594c8846115f
